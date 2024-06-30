@@ -1,2 +1,3 @@
-# wordmore-py
-wordmore is a small language model that makes more English words, it is made in python inspired by Karpathy's makemore
+# wordmore in Python
+
+![image](https://github.com/yashghogre/wordmore-py/assets/72300924/df1a100b-f288-467a-8aba-4465b8d6468d)
